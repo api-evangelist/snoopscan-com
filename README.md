@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-snoopscan-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://snoopscan.com/
+SnoopScan is a web scraping API for AI agents that turns any website into clean markdown, HTML, links or JSON. It offers endpoints to scrape, crawl, map, search, extract, batch, and retrieve products, posts, monitor changes, and domain reports. The service is metered in credits with free and paid plans, supports MCP, and provides a REST JSON interface for developers.
+
+**Areas:** Web Scraping · API · AI Agents · MCP · Data Extraction
+
+## snoopscan-com on APIs.io
+
+Everything profiled for snoopscan-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/snoopscan-com/](https://apis.io/providers/snoopscan-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (16)
+
+- [snoopscan-com Company API](https://apis.io/apis/snoopscan-com/snoopscan-com-company-api/) — The company API from snoopscan-com — 1 operation(s) for company.
+- [snoopscan-com Crawl API](https://apis.io/apis/snoopscan-com/snoopscan-com-crawl-api/) — The crawl API from snoopscan-com — 8 operation(s) for crawl.
+- [snoopscan-com Domain API](https://apis.io/apis/snoopscan-com/snoopscan-com-domain-api/) — The domain API from snoopscan-com — 4 operation(s) for domain.
+- [snoopscan-com Extract API](https://apis.io/apis/snoopscan-com/snoopscan-com-extract-api/) — The extract API from snoopscan-com — 2 operation(s) for extract.
+- [snoopscan-com Fetch API](https://apis.io/apis/snoopscan-com/snoopscan-com-fetch-api/) — The fetch API from snoopscan-com — 1 operation(s) for fetch.
+- [snoopscan-com Leads API](https://apis.io/apis/snoopscan-com/snoopscan-com-leads-api/) — The leads API from snoopscan-com — 3 operation(s) for leads.
+- [snoopscan-com Mentions API](https://apis.io/apis/snoopscan-com/snoopscan-com-mentions-api/) — The mentions API from snoopscan-com — 6 operation(s) for mentions.
+- [snoopscan-com Monitor API](https://apis.io/apis/snoopscan-com/snoopscan-com-monitor-api/) — The monitor API from snoopscan-com — 4 operation(s) for monitor.
+- [snoopscan-com Parse API](https://apis.io/apis/snoopscan-com/snoopscan-com-parse-api/) — The parse API from snoopscan-com — 1 operation(s) for parse.
+- [snoopscan-com Places API](https://apis.io/apis/snoopscan-com/snoopscan-com-places-api/) — The places API from snoopscan-com — 1 operation(s) for places.
+- [snoopscan-com Platforms API](https://apis.io/apis/snoopscan-com/snoopscan-com-platforms-api/) — The platforms API from snoopscan-com — 2 operation(s) for platforms.
+- [snoopscan-com Scrape API](https://apis.io/apis/snoopscan-com/snoopscan-com-scrape-api/) — The scrape API from snoopscan-com — 1 operation(s) for scrape.
+- [snoopscan-com Serp API](https://apis.io/apis/snoopscan-com/snoopscan-com-serp-api/) — The serp API from snoopscan-com — 1 operation(s) for serp.
+- [snoopscan-com Social API](https://apis.io/apis/snoopscan-com/snoopscan-com-social-api/) — The social API from snoopscan-com — 2 operation(s) for social.
+- [snoopscan-com Source API](https://apis.io/apis/snoopscan-com/snoopscan-com-source-api/) — The source API from snoopscan-com — 1 operation(s) for source.
+- [snoopscan-com Templates API](https://apis.io/apis/snoopscan-com/snoopscan-com-templates-api/) — The templates API from snoopscan-com — 1 operation(s) for templates.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Snoopscan Com Agentic Access](https://apis.io/agentic-access/snoopscan-com/snoopscan-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [CrawlRequest](https://apis.io/schemas/snoopscan-com/snoopscan-com-crawl-request/)
+- [ScrapeRequest](https://apis.io/schemas/snoopscan-com/snoopscan-com-scrape-request/)
+- [SearchRequest](https://apis.io/schemas/snoopscan-com/snoopscan-com-search-request/)
+- [WatchFields](https://apis.io/schemas/snoopscan-com/snoopscan-com-watch-fields/)
+- [WatchRequest](https://apis.io/schemas/snoopscan-com/snoopscan-com-watch-request/)
+- [WatchUpdate](https://apis.io/schemas/snoopscan-com/snoopscan-com-watch-update/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Snoopscan Com Context](https://apis.io/jsonld/snoopscan-com/snoopscan-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Snoopscan Com Openapi Overlay](https://apis.io/overlays/snoopscan-com/snoopscan-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [snoopscan-com API Rules](https://apis.io/rules/snoopscan-com/snoopscan-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Snoopscan Com Authentication](https://apis.io/security/snoopscan-com/snoopscan-com-authentication/)
+- [Snoopscan Com Domain Security](https://apis.io/security/snoopscan-com/snoopscan-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Snoopscan Com Plans Pricing](https://apis.io/plans/snoopscan-com/snoopscan-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Snoopscan Com Rate Limits](https://apis.io/rate-limits/snoopscan-com/snoopscan-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://snoopscan.com/)
+- [Documentation](https://snoopscan.com/docs)
+- [Getting started](https://snoopscan.com/docs)
+- [API reference](https://snoopscan.com/docs)
+- [Pricing](https://snoopscan.com/#pricing)
+- [Terms of service](https://snoopscan.com/terms)
+- [Privacy policy](https://snoopscan.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 59.5** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 53.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 70.7 |
+| Access clarity | 73.2 |
+
+**Agent readiness 53.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/snoopscan-com/](https://apis.io/providers/snoopscan-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for snoopscan-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/snoopscan-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
